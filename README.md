@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ratnadeep 
 
-<!--
-**ratnadeepmate/ratnadeepmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring DevOps Engineer | Cloud & Automation Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about Cloud Computing, Infrastructure Automation, and DevOps practices. I'm currently building hands-on projects to improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Technical Skills
+
+- **Cloud:** AWS
+- **Infrastructure as Code:** Terraform
+- **Configuration Management:** Ansible
+- **Operating System:** Linux
+- **Version Control:** Git & GitHub
+- **Containers:** Docker
+- **CI/CD:** Jenkins
+
+###  Projects
+
+- AWS Resource Provisioning and Automation Using Terraform & Ansible
+- Linux Shell Scripting Automation
+- Dockerized Web Application
+- CI/CD Pipeline Using Jenkins
+
+###  Currently Learning
+
+- AWS Cloud Infrastructure
+- Terraform Automation
+- Ansible Configuration Management
+- Docker and CI/CD
+
+###  Career Objective
+
+Looking for an opportunity as a DevOps Engineer where I can apply my technical knowledge, learn new technologies, and contribute to real-world projects.
+
